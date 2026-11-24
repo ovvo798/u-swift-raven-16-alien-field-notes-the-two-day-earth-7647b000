@@ -9,9 +9,9 @@ Entry for the make.fun competition
 An alien tourist's one-line review of planet Earth, written by `main.py`
 to `/output/entry.txt`:
 
-> 3/5 stars. Lovely planet, but the locals worship a glowing rectangle, queue for coffee they complain about, and charged my saucer for parking. Would visit again, preferably unnoticed.
+> The locals spend a third of their lives unconscious, then buy machines to tell them how badly they slept. 4/5 stars — the sunsets almost make up for it.
 
-One line of plain text, 183 characters — within the 200-character limit.
+One line of plain text, 152 characters — within the 200-character limit.
 
 ## How it works
 

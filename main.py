@@ -9,9 +9,9 @@ Standard library only. No network, no secrets, no external files.
 import os
 
 ENTRY = (
-    "3/5 stars. Lovely planet, but the locals worship a glowing rectangle, "
-    "queue for coffee they complain about, and charged my saucer for "
-    "parking. Would visit again, preferably unnoticed."
+    "The locals spend a third of their lives unconscious, then buy "
+    "machines to tell them how badly they slept. 4/5 stars — the "
+    "sunsets almost make up for it."
 )
 
 
